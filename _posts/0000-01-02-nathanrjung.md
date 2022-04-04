@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+There is nothing new under the sun
 use the left arrow to go back!
